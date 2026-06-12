@@ -17,3 +17,4 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 ```
 step trigger 1
 step trigger 2
+step trigger 3
